@@ -21,6 +21,13 @@
 
 **📌 Projects**
 
+### 🔹 Advanced News Classification System
+- AI-powered news classification web application using NLP and Machine Learning
+- Built using Flask, Python, Scikit-learn, and SQLite
+- Features user authentication and category prediction
+- GitHub Repository:
+  https://github.com/Divyasri0408/Advanced-News-Classification-System
+
 🔹 AI Resume Builder
 
 - Built using React, Flask/Django, and OpenAI API
